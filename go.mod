@@ -1,6 +1,6 @@
 module github.com/ipfs/kubo
 
-go 1.23
+go 1.25.0
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc
@@ -92,7 +92,7 @@ require (
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c
 	golang.org/x/mod v0.23.0
 	golang.org/x/sync v0.11.0
-	golang.org/x/sys v0.30.0
+	golang.org/x/sys v0.44.0
 	google.golang.org/protobuf v1.36.4
 )
 
