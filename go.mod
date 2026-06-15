@@ -1,6 +1,6 @@
 module github.com/ipfs/kubo
 
-go 1.23
+go 1.24.0
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc
@@ -129,7 +129,7 @@ require (
 	github.com/gammazero/chanqueue v1.0.0 // indirect
 	github.com/gammazero/deque v1.0.0 // indirect
 	github.com/getsentry/sentry-go v0.27.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect

@@ -1,6 +1,6 @@
 module github.com/ipfs/kubo/examples/kubo-as-a-library
 
-go 1.23
+go 1.24.0
 
 // Used to keep this in sync with the current version of kubo. You should remove
 // this if you copy this example.
@@ -56,7 +56,7 @@ require (
 	github.com/gammazero/chanqueue v1.0.0 // indirect
 	github.com/gammazero/deque v1.0.0 // indirect
 	github.com/getsentry/sentry-go v0.27.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
