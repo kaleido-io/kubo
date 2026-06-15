@@ -1,6 +1,6 @@
 module github.com/ipfs/kubo
 
-go 1.23
+go 1.25.0
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc
@@ -88,11 +88,11 @@ require (
 	go.uber.org/fx v1.23.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/crypto v0.32.0
+	golang.org/x/crypto v0.51.0
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c
-	golang.org/x/mod v0.23.0
-	golang.org/x/sync v0.11.0
-	golang.org/x/sys v0.30.0
+	golang.org/x/mod v0.35.0
+	golang.org/x/sync v0.20.0
+	golang.org/x/sys v0.45.0
 	google.golang.org/protobuf v1.36.4
 )
 
@@ -268,11 +268,12 @@ require (
 	go.uber.org/mock v0.5.0 // indirect
 	go.uber.org/zap/exp v0.3.0 // indirect
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
-	golang.org/x/net v0.34.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/oauth2 v0.24.0 // indirect
-	golang.org/x/term v0.28.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
-	golang.org/x/tools v0.29.0 // indirect
+	golang.org/x/telemetry v0.0.0-20260409153401-be6f6cb8b1fa // indirect
+	golang.org/x/term v0.43.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
+	golang.org/x/tools v0.44.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	gonum.org/v1/gonum v0.15.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9 // indirect
