@@ -1,6 +1,6 @@
 module github.com/ipfs/kubo
 
-go 1.23
+go 1.23.0
 
 require (
 	bazil.org/fuse v0.0.0-20200117225306-7b5117fecadc
@@ -269,7 +269,7 @@ require (
 	go.uber.org/zap/exp v0.3.0 // indirect
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
 	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/oauth2 v0.24.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/term v0.28.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
 	golang.org/x/tools v0.29.0 // indirect
